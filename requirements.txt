@@ -1,0 +1,7 @@
+numpy
+pandas
+openai==0.28
+tiktoken
+tenacity
+fire
+rouge_score
