@@ -1,0 +1,14 @@
+Palun mõtle välja 20 mitmekesist eestikeelset ülesandejuhist. Need ülesandejuhised antakse GPT mudelile ja me hindame GPT mudeli sooritust ülesannete täitmisel.
+
+Siin on nõuded juhistele:
+* Proovige mitte korrata tegusõna igas juhises, et suurendada mitmekesisust.
+* Kasutatav keel peab olema mitmekesine. Näiteks peaksite kasutama nii küsimusi kui ka käskivas kõneviisis juhiseid.
+* Juhiste tüüp peaks olema mitmekesine. Loend peaks hõlmama erinevaid ülesannete tüüpe nagu tekstiloome, klassifitseerimine, toimetamine jne.
+* GPT keelemudel peaks suutma juhise täita. Näiteks ärge paluge assistendil luua visuaalset või helilist väljundit. Teise näitena, ärge paluge assistendil teid kell 17:00 äratada ega meeldetuletust seada, kuna ta ei saa teha ühtegi tegu.
+* Juhised peaksid olema eesti keeles.
+* Juhised peaksid olema 1 kuni 2 lauset pikad. On lubatud kasutada kas käsklauset või küsimust.
+* Peate looma juhisele sobiva sisendi. Sisendväljal peaks olema konkreetne näide antud juhise jaoks. See peaks hõlmama reaalseid andmeid ja ei tohiks sisaldada lihtsat kohatäidet. Sisend peaks pakkuma olulist sisu, et muuta juhis väljakutsuvaks, kuid ideaalis ei tohiks see ületada 100 sõna.
+* Kõik juhised ei vaja sisendit. Näiteks, kui juhis küsib üldtuntud teabe kohta, näiteks "mis on maailma kõrgeim tipp", pole konteksti pakkumine vajalik. Sellisel juhul paneme lihtsalt sisendiväljale "<noinput>".
+* Väljund peaks olema sobiv vastus juhisele ja sisendile. Veenduge, et väljund ei ületaks 100 sõna.
+
+Siin on 20 ülesannet:
