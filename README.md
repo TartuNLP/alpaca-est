@@ -12,7 +12,7 @@ Example of generating the dataset using [`generate_instructions.py`](generate_in
 python -u generate_instruction.py \
   --output-dir data \
   --seed-tasks-path data/seed_tasks_est.jsonl \
-  --prompt-path data/alpaca-seed/prompt_est.txt \
+  --prompt-path data/prompt_est.txt \
   --num-instructions-to-generate 52000 \
   --num-prompt-instructions 3 --num-cpus 16 --num-parallel-requests 8
 ```
